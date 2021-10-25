@@ -1,2 +1,5 @@
-# jamstack-sveltekit-aws-cdk
-A JAMStack App using SvelteKit and AWS-CDK
+# JAMStack with SvelteKit and AWS-CDK
+
+## Setup
+
+`yarn`
