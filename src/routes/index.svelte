@@ -1,1 +1,1 @@
-<h1>Welcome to Developer Open Space! (Main branch)</h1>
+<h1>Welcome to Developer Open Space! (main branch)</h1>
