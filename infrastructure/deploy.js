@@ -6,7 +6,7 @@ const app = new App();
 const name = (!process.env.STAGE || process.env.STAGE === 'main') ? 'devspace' : process.env.STAGE;
 const domainName = process.env.DOMAIN || 'mikebild.com';
 
-new CdkStackSveltekit(app, `JAMStack-Workshop-${name}`, {
+new CdkStackSveltekit(app, `jamstack-workshop-${name}`, {
 	hostName: name,
 	domainName,
 	serverPath: join(process.cwd(), '.svelte-kit/output/server-bundle'),
