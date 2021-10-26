@@ -6,5 +6,5 @@ branch: Main
 # Welcome to {title}! ({branch})
 
 ```ts
-const hello:string = 'DevSpace';
+const hello: string = 'DevSpace';
 ```
