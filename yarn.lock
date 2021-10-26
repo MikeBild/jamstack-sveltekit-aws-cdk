@@ -613,10 +613,10 @@
   dependencies:
     "@types/node" "*"
 
-"@yippiecloud/cdk-stack-sveltekit@^1.0.2":
-  version "1.0.2"
-  resolved "https://registry.yarnpkg.com/@yippiecloud/cdk-stack-sveltekit/-/cdk-stack-sveltekit-1.0.2.tgz#8dbea9495d9d07317a5aeded51f977f52ec6b091"
-  integrity sha512-/jLoMeta4ORqWgLjpVuG74DxLekxUrDkvSU96iuUZJMZIYURAge5LxnTPCDWLTl6sdL/JS/7iNoYaawAk4UOjg==
+"@yippiecloud/cdk-stack-sveltekit@^1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@yippiecloud/cdk-stack-sveltekit/-/cdk-stack-sveltekit-1.0.3.tgz#60f1c8943319eaa93a9516df8cf56e00e39ed220"
+  integrity sha512-AODjAyS2tV38Kqm5duUqhyv0R49F/M+9YhFAn00OD2BBP9eqZqopZMbLM9PQXseGVl2QF4AALgwQaRI6krTSXQ==
   dependencies:
     "@aws-cdk/aws-apigatewayv2" "1.129.0"
     "@aws-cdk/aws-apigatewayv2-integrations" "1.129.0"
@@ -627,7 +627,6 @@
     "@aws-cdk/aws-route53-targets" "1.129.0"
     "@aws-cdk/aws-s3" "1.129.0"
     "@aws-cdk/aws-s3-deployment" "1.129.0"
-    "@aws-cdk/aws-ssm" "1.129.0"
     "@aws-cdk/core" "1.129.0"
 
 agent-base@6, agent-base@^6.0.0, agent-base@^6.0.2:
